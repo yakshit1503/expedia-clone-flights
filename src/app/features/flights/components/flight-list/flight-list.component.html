@@ -1,0 +1,7 @@
+<ul class="flight-list">
+  @for (flight of flights; track flight.id) {
+    <li>
+      <strong>{{ flight.from }}</strong> to <strong>{{ flight.to }}</strong>
+    </li>
+  }
+</ul>
