@@ -2,3 +2,5 @@
 > expedia-clone-flights@0.0.0 start
 > ng serve
 
+An unhandled exception occurred: Port 4201 is already in use. Use '--port' to specify a different port.
+See "C:\Users\chawl\AppData\Local\Temp\ng-xaj7zB\angular-errors.log" for further details.

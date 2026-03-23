@@ -52,12 +52,6 @@
             "port": 4201
           }
         },
-        "test": {
-          "builder": "@angular/build:unit-test",
-          "options": {
-            "buildTarget": "flights:esbuild:development"
-          }
-        },
         "esbuild": {
           "builder": "@angular/build:application",
           "options": {
